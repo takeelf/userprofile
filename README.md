@@ -1,3 +1,3 @@
 # userprofile
-User profile with file upload in django restful framework
+User profile with file upload in django rest framework
 
